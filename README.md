@@ -1,24 +1,9 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Project Info
+- Ruby version 2.4.1
+- Rails version 5.1.7
+- Database PostgreSQL
+### About Project
+- Project covers creating static pages in RoR along with tests, link to live version: https://pure-sea-72275.herokuapp.com/
+### Authors
+- Emir Vatric -- [User Github link](https://github.com/EmirVatric)
+- Muhamed Abdellani -- [User Github link](https://github.com/abdellani)
